@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.OpenTelemetryLogs", "Serilog.Sinks.OpenTelemetryLogs\Serilog.Sinks.OpenTelemetryLogs.csproj", "{E58A2CB5-0D18-4764-92DE-AB01D9D5DB5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilog.Sinks.OpenTelemetryLogs.Tests", "Serilog.Sinks.OpenTelemetryLogs.Tests\Serilog.Sinks.OpenTelemetryLogs.Tests.csproj", "{6C3AB4EC-F7FE-4BF3-AB4F-532C1985D632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58A2CB5-0D18-4764-92DE-AB01D9D5DB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58A2CB5-0D18-4764-92DE-AB01D9D5DB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58A2CB5-0D18-4764-92DE-AB01D9D5DB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58A2CB5-0D18-4764-92DE-AB01D9D5DB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3AB4EC-F7FE-4BF3-AB4F-532C1985D632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3AB4EC-F7FE-4BF3-AB4F-532C1985D632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3AB4EC-F7FE-4BF3-AB4F-532C1985D632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3AB4EC-F7FE-4BF3-AB4F-532C1985D632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
